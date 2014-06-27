@@ -1,0 +1,14 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+span {
+    font-style: italic;
+}
+
+#content {
+    background-color: yellow;
+    width: 50em;
+    margin: 1em;
+    padding: 1em;
+}
